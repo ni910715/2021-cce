@@ -1,5 +1,5 @@
 ### 我的第一份作業
-
+```C
 進階題1:分式化簡
 #include <stdio.h>
 int main()
@@ -16,6 +16,7 @@ int main()
  printf("%d %d\n",m,n);
 }
 C
+```
 進階題2:讀入整數反敘列印
 #include <stdio.h>
 int main()
