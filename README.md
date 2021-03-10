@@ -15,8 +15,9 @@ int main()
 }
  printf("%d %d\n",m,n);
 }
-C
+
 ```
+```C
 進階題2:讀入整數反敘列印
 #include <stdio.h>
 int main()
@@ -33,6 +34,7 @@ int main()
         }
         printf("\n");
 }
+```
 ```C
 進階題3:A的B次方函數
 #include <stdio.h>
