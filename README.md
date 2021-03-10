@@ -127,7 +127,7 @@ int main()
     else if(a>=60)printf("C\n");
     else if(a<60)printf("F\n");
 }
-
+```
 week2-1
 
 ```C
