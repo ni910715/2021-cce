@@ -129,11 +129,11 @@ int main()
 }
 ```
 第二週
-```C
+
 海綿體寶寶
 --------------
 ![123456](https://lh3.googleusercontent.com/proxy/mNxbTTbc1wlqG60JfZTlzTIhSP3lsaV0jzb2ns2pDvFHTuIO_cYOqEUNijwxgRPLEXe0-0K10na8rQ4hfdMc283-RgqBcw)
-```
+
 week2-1
 
 ```C
