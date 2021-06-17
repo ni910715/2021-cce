@@ -1592,8 +1592,7 @@ void keyPressed(){
  ```
  ```C
  17-7
- 17-7
-String A="mother";
+ String A="mother";
 String line="";
 
 void setup(){
